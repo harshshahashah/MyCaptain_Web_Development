@@ -1,0 +1,50 @@
+*
+{
+	font-family: Montserrat;
+}
+
+ul
+{
+	list-style: none;
+}
+
+hr
+{
+	width: 50%;
+	margin-left: 25%;
+	border:  2px solid black;
+}
+
+h1
+{
+	margin-top: 20px;
+}
+
+
+footer
+{
+	background-color: black;
+	color: orange;
+	text-align: center;
+}
+
+.footer-text
+{
+	margin-top: 10px;
+}
+
+.container-fluid
+{
+	background-color: orange;
+}
+
+.text-center
+{
+	background-color: black;
+	color:orange;
+}
+
+.paragraph
+{
+	background-color: #F4BC70;
+}
